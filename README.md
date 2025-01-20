@@ -1,6 +1,6 @@
 # Hi, I'm M Monika 👋
 Passionate Data Analyst | Python Learning Enthusiast 
-# About me 
+## About me 
 I am a dedicated Data analysis enthusiast completed my under graduation with the specification of Computer Applications. Having a strong background Computers, and Data analysis. I love working different kind of datasets to uncover valuable insights and develop data-driven solutions. 
 Here are some ideas to get you started:
 
