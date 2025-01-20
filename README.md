@@ -14,5 +14,6 @@ I am a dedicated Data analysis enthusiast, completed my under graduation with th
 - Data Analysis and Visualization: Microsoft PowerBI, Tableau
 - Tools: Github
 ## Projects
-
+## Certifications
+- https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science - SQL for Data Science by Great Learning
 
