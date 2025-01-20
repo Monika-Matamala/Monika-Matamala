@@ -1,4 +1,4 @@
-## Hi there I am Monika 👋
+## Hi, I'm M Monika 👋
 
 <!--
 **Monika-Matamala/Monika-Matamala** is a dedicated Data analysis enthusiast completed my under graduation with the specification of Computer Applications. Having a strong background Computers, and Data analysis. I love working different kind of datasets to uncover valuable insights and develop data-driven solutions. 
