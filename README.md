@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I would like to learn new topics in my free time.
 ## Skills
-Programming: Python, MYSQL
-Data Analysis and Visualization: Microsoft PowerBI, Tableau
-Tools: Github
+- Programming: Python, MYSQL
+- Data Analysis and Visualization: Microsoft PowerBI, Tableau
+- Tools: Github
 
