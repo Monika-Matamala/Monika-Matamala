@@ -1,8 +1,7 @@
 # Hi, I'm M Monika 👋
 Passionate Data Analyst | Python Learning Enthusiast 
 ## About me 
-I am a dedicated Data analysis enthusiast completed my under graduation with the specification of Computer Applications. Having a strong background Computers, and Data analysis. I love working different kind of datasets to uncover valuable insights and develop data-driven solutions. 
-Here are some ideas to get you started:
+I am a dedicated Data analysis enthusiast, completed my under graduation with the specification of Computer Applications. Having a strong of background Computers, and Data analysis. I love working with different kind of datasets to uncover valuable insights and develop data-driven solutions. 
 
 - 🔭 I’m currently working on sharpening my skills in python and data visualization techniques.
 - 🌱 I’m constantly learning and exploring new tools and techniques in the field of data analysis.
@@ -14,4 +13,6 @@ Here are some ideas to get you started:
 - Programming: Python, MYSQL
 - Data Analysis and Visualization: Microsoft PowerBI, Tableau
 - Tools: Github
+## Projects
+
 
