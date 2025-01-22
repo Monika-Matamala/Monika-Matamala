@@ -35,6 +35,7 @@ I am a dedicated Data analysis enthusiast, completed my under graduation with th
 - **Interactive Dashboard**: The report features a dynamic, interactive dashboard that visualizes key sales metrics such as total sales, units sold, and average order value, segmented by region, time period, and pizza type.
 - **Data Integration**: The project integrates multiple data sources, including sales transaction data, customer demographics, and inventory records, to provide a comprehensive view of pizza sales performance.
 - **Trend Analysis and Forecasting**: The report includes trend analysis of sales patterns, seasonality, and predictive insights using Power BI’s built-in forecasting capabilities to support data-driven decision-making.
+  ## Certifications
 
 
 
