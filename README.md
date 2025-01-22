@@ -36,6 +36,7 @@ I am a dedicated Data analysis enthusiast, completed my under graduation with th
 - **Data Integration**: The project integrates multiple data sources, including sales transaction data, customer demographics, and inventory records, to provide a comprehensive view of pizza sales performance.
 - **Trend Analysis and Forecasting**: The report includes trend analysis of sales patterns, seasonality, and predictive insights using Power BI’s built-in forecasting capabilities to support data-driven decision-making.
 ## Certifications
+- [SQL for Data Science](https://drive.google.com/file/d/1kRbjbLKUGiZsB60Zv2msxdlbPfOjOvrE/view?usp=drive_link) - Great Learning
 
 
 
