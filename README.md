@@ -36,7 +36,15 @@ I am a dedicated Data analysis enthusiast, completed my under graduation with th
 - **Data Integration**: The project integrates multiple data sources, including sales transaction data, customer demographics, and inventory records, to provide a comprehensive view of pizza sales performance.
 - **Trend Analysis and Forecasting**: The report includes trend analysis of sales patterns, seasonality, and predictive insights using Power BI’s built-in forecasting capabilities to support data-driven decision-making.
 ## Certifications
+- [SQL Beginner Tutorial](https://drive.google.com/file/d/1BjO2uHTcW63vSqdcsCFvQeOxMUH8jrrX/view?usp=drive_link) - Mindluster
 - [SQL for Data Science](https://drive.google.com/file/d/1kRbjbLKUGiZsB60Zv2msxdlbPfOjOvrE/view?usp=drive_link) - Great Learning
+- [SQL(Basic)](https://www.hackerrank.com/certificates/f31efbaa72d7) - HackerRank
+- [Python for Beginners](https://drive.google.com/file/d/1Rb-QsAaTmkcb7KLb4C43aAz8zsyx2NPl/view?usp=drive_link) - Simplilearn
+- [Python(Basic)](https://www.hackerrank.com/certificates/64e97591dac6) - HackerRank
+- [PowerBI Projects](https://drive.google.com/file/d/1NyY7JYHR1gU3FZBnFdlFsasxNbXH8jx_/view?usp=drive_link) - Great Learning
+- [Data Visualization using PowerBI](https://drive.google.com/file/d/1t78SdcjikXTxPKz_IrDNSz_o-WvtfPHs/view?usp=drive_link) - Great Learning
+- [Career Edge - Young Professional](https://drive.google.com/file/d/18ngR8T4m6Kv6JQdknCpUEvr0zgKrUPdo/view?usp=drive_link) - TCS iON
+- [Data Analysis with Python](https://drive.google.com/file/d/1rImx5_4sJH7mWvGj0sNUhz-l9_t9qBEf/view?usp=drive_link) - IBM
 
 
 
