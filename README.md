@@ -59,9 +59,10 @@ I am a dedicated Data analysis enthusiast, completed my under graduation with th
    - Jun 2017 - Apr 2018
    - Grade: 9.7
  ## Connect with me
- Let's connect and collaborate! You can reach me through:
+ Let's connect and collaborate! You can reach me through :
  - Email : monikamoni4304@gmail.com
- Feel free to explore my GitHub repositories and reach out if you have any questions or exciting data projects to discuss. Looking forward to connecting with fellow data enthusiasts and making a meaningful impact together!
+      - Feel free to explore my GitHub repositories and reach out if you have any questions or exciting data projects to discuss. Looking forward to connecting with fellow data enthusiasts and making a meaningful impact 
+together!
 
 
 
