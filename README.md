@@ -45,6 +45,19 @@ I am a dedicated Data analysis enthusiast, completed my under graduation with th
 - [Data Visualization using PowerBI](https://drive.google.com/file/d/1t78SdcjikXTxPKz_IrDNSz_o-WvtfPHs/view?usp=drive_link) - Great Learning
 - [Career Edge - Young Professional](https://drive.google.com/file/d/18ngR8T4m6Kv6JQdknCpUEvr0zgKrUPdo/view?usp=drive_link) - TCS iON
 - [Data Analysis with Python](https://drive.google.com/file/d/1rImx5_4sJH7mWvGj0sNUhz-l9_t9qBEf/view?usp=drive_link) - IBM
+## Education
+- Bachelor of Computer Applications (BCA)
+   - RK Degree College [Sri Venkateswara University, Tpt]
+   - Jun 2020 - Jul 2023
+   - Grade : 8.30
+- Intermediate (MPC)
+   - Rukmini Krishnswamy Junior College
+   - Jun 2018 - Mar 2020
+   - Grade: 8.5
+- Secondary School Education (10th class)
+   - DBM English Medium School
+   - Jun 2017 - Apr 2018
+   - Grade: 9.7
 
 
 
