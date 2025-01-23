@@ -11,7 +11,7 @@ I am a dedicated Data analysis enthusiast, completed my under graduation with th
 - ⚡ Fun fact: I would like to learn new topics in my free time.
 ## Skills
 - Programming: Python, MYSQL
-- Data Analysis and Visualization: Microsoft PowerBI, Tableau
+- Data Analysis and Visualization: Microsoft PowerBI, Tableau, Microsoft Excel
 - Tools: Github
 ## Projects
 ### Word Guessing Game
